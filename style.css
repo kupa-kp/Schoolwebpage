@@ -1,0 +1,31 @@
+body {
+    padding-top: 800px;
+    margin: 0;
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+#contact {
+    background: firebrick;
+}
+
+#contact iframe {
+    width: 100%
+}
+
+.contact_1 h2 {
+    display: inline;
+}
+
+contact_1 a {
+    color: white;
+    text-shadow: none;
+}
